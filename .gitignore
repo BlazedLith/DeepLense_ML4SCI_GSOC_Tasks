@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+.env
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and Models
+data/
+*.pth
+*.pt
