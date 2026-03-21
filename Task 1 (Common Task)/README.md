@@ -58,7 +58,7 @@ Three experiments were run, each building on the previous one.
 
 ## Results
 
-The final model (Experiment 3) achieves **95.7% validation accuracy** with per-class AUC scores near or above 0.99. The vortex class is cleanly separable from the others (AUC ~1.0). Training was stopped at 25 epochs based on a prior longer run that showed the train/val gap widening past epoch 25, a sign of memorization starting to creep in.
+The final model (Experiment 3) achieves **95.7% validation accuracy** with per-class AUC scores near or above 0.99. The vortex class is cleanly separable from the others (AUC ~1.0).
 
 ## Key Decisions
 
